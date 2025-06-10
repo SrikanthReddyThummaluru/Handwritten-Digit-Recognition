@@ -1,0 +1,23 @@
+
+# Handwritten Digit Recognition - Project Report
+
+## Objective
+Build a machine learning model that can classify handwritten digits (0–9) using the MNIST dataset.
+
+## Tools & Libraries
+- Python, TensorFlow/Keras
+- MNIST dataset
+- Streamlit for frontend UI
+
+## Methodology
+1. Load and preprocess MNIST data
+2. Train CNN model
+3. Evaluate model on test data
+4. Create interactive web UI with Streamlit
+
+## Results
+- Achieved ~98% test accuracy
+- Real-time digit prediction with Streamlit
+
+## Conclusion
+A simple yet effective project for beginners to understand image classification with deep learning.
